@@ -12,8 +12,8 @@ I love building web apps, learning full‑stack development, and collaborating o
 
 - 🔭 Currently building: **MediBridge** (medication tracker)  
 - ⭐ Major project: **GBU-Quora** (college discussion forum) — live demo available  
-- 🛠️ Main tech: **HTML, CSS, JavaScript, PHP, MySQL**  
-- 🌱 Currently learning: React / Node.js / MERN  
+- 🛠️ Main tech: **HTML, CSS, JavaScript, PHP, MySQL,MongoDB,Express,Node.js**  
+- 🌱 Currently learning: React / MERN  
 
 ---
 
