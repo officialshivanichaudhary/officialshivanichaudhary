@@ -12,15 +12,16 @@ I love building web apps, learning full‑stack development, and collaborating o
 
 - 🔭 Currently building: **MediBridge** (medication tracker)  
 - ⭐ Major project: **GBU-Quora** (college discussion forum) — live demo available  
-- 🛠️ Main tech: **HTML, CSS, JavaScript, PHP, MySQL**  
-- 🌱 Currently learning: React / Node.js / MERN  
+- 🛠️ Main tech: **HTML, CSS, JavaScript, PHP, MySQL,MongoDB,Express,Node.js**  
+- 🌱 Currently learning: React / MERN  
 
 ---
 
 ## 🚀 Highlights & Badges
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialshivanichaudhary&layout=compact&title_color=ffffff&text_color=dddddd&bg_color=0d1117)](https://github.com/officialshivanichaudhary)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=officialshivanichaudhary&show_icons=true&theme=tokyonight)
+![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialshivanichaudhary&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=officialshivanichaudhary&theme=tokyonight)
 
 ---
 
@@ -49,8 +50,6 @@ Repository is currently **private**.
 If you want to view the code or demo, please contact me — I can provide:
 
 ### 🏙️ Smart India Hackathon 2024 — [CivicFix Project Repository](https://github.com/officialshivanichaudhary/SIH2025-showcase)
-
-
 ---
 
 ## 📂 More Projects / Practice
@@ -60,15 +59,28 @@ If you want to view the code or demo, please contact me — I can provide:
 ---
 
 ## 🧰 Tools & Tech
-HTML • CSS • JavaScript • PHP • MySQL • Bootstrap • FontAwesome • Git • Vercel • InfinityFree
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
 ## ✨ How to contact
-- 📧 Email: shivanichaudhary664157@mail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/shivani-chaudhary-b78317296  
-- 🐙 GitHub: https://github.com/officialshivanichaudhary
+<p align="left">
+<a href="https://www.linkedin.com/in/shivani-chaudhary-b78317296" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:shivanichaudhary664157@mail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/officialshivanichaudhary"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
-⭐ If you like my work — follow me or give a star!
+⭐ **If you like my work, consider following me or giving a star to my repos!**
