@@ -48,7 +48,7 @@ _Project completed as part of a team and selected internally._
 Repository is currently **private** (team member holds main repo).  
 If you want to view the code or demo, please contact me — I can provide:
 
-### 🏙️ Smart India Hackathon 2024 — [CivicFix Project Repository](https://github.com/officialshivanichaudhary/sih2024-showcase)
+### 🏙️ Smart India Hackathon 2024 — [CivicFix Project Repository](https://github.com/officialshivanichaudhary/SIH2025-showcase)
 
 
 ---
