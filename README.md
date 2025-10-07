@@ -7,67 +7,65 @@
 ---
 
 ## 👩‍💻 About Me
-I’m a web developer and a student pursuing **Integrated B.Tech + M.Tech (CSE)**.  
-I love building web apps, learning full-stack development, and working on impactful projects.
+I’m a web developer and a student pursuing Integrated B.Tech + M.Tech (CSE).  
+I love building web apps, learning full‑stack development, and collaborating on practical projects.
 
-- 🔭 Currently building: **MediBridge** (medication tracker using MERN)  
-- ⭐ Major project: **GBU-Quora** (college discussion forum)  
-- 🧠 Participated in **Smart India Hackathon 2024** — selected at internal level  
-- 🌱 Currently learning **React, Node.js, and AI integrations for web**
-
----
-
-## 🛠️ Tech Stack
-
-| Frontend | Backend | Database | Tools |
-|-----------|----------|-----------|--------|
-| HTML, CSS, JavaScript, Bootstrap, React | PHP, Node.js, Express | MySQL, MongoDB | Git, GitHub, Postman, Vercel, InfinityFree |
+- 🔭 Currently building: **MediBridge** (medication tracker)  
+- ⭐ Major project: **GBU-Quora** (college discussion forum) — live demo available  
+- 🛠️ Main tech: **HTML, CSS, JavaScript, PHP, MySQL**  
+- 🌱 Currently learning: React / Node.js / MERN  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Highlights & Badges
 
-### 🗨️ **[GBU-Quora](https://quoragbu.infinityfreeapp.com/GBU-QUORA/)** — College Discussion Forum  
-💡 College-level Q&A system built with PHP & MySQL for posting and answering queries.  
-👥 Collaboration with [Nitish Sheoran](https://github.com/iNitishSheoran)
-
-### 🎵 **[Spotify Clone](https://spotifyclone-ten-rho.vercel.app/)**  
-🎧 Music player interface clone using HTML, CSS, and JavaScript.
-
-### 🛒 **[Amazon Clone](https://amazon-clone-orpin-rho.vercel.app/)**  
-🛍️ Simple e-commerce front-end clone built using HTML, CSS, and JS.
-
-### 📱 **Sidebar Menu Project**  
-📂 Responsive sidebar menu made using HTML, CSS, and JavaScript.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialshivanichaudhary&layout=compact&title_color=ffffff&text_color=dddddd&bg_color=0d1117)](https://github.com/officialshivanichaudhary)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=officialshivanichaudhary&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🏆 Hackathon Projects
+## 🔭 Featured Projects
 
-### 🏙️ **[CivicFix — Smart India Hackathon 2024](https://github.com/officialshivanichaudhary/sih2024-showcase)**
-🧠 Problem Statement: *Crowdsourced Civic Issue Reporting and Resolution System (ID: 25031)*  
-💻 Tech Stack: React, Node.js, Express, MongoDB, TensorFlow, AWS, Firebase  
-📍 Theme: Clean & Green Technology  
-👥 Team: *IssueBusters* 
-✅ Selected in **Internal Evaluation** for its innovation & feasibility.
+### 1. **GBU‑Quora** — College Discussion Forum (Major project)  
+🔗 Live: https://quoragbu.infinityfreeapp.com/GBU-QUORA/  
+Short: A PHP + MySQL Q&A platform (post, answer, upvote/downvote, search). Built with Nitish Sheoran.  
+**What I did:** Backend (PHP), DB schema, auth, UI/CRUD logic.
 
-> “Empowering citizens with AI-driven civic issue reporting and transparent resolution.”
+### 2. **Spotify Clone** (UI clone)  
+🔗 Live: https://spotifyclone-ten-rho.vercel.app/  
+Short: Music player UI recreated with HTML/CSS/JS. Focus on responsive layout and player controls.
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=officialshivanichaudhary&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=officialshivanichaudhary&layout=compact&theme=tokyonight)
+### 3. **Amazon Clone** (UI clone)  
+🔗 Live: https://amazon-clone-orpin-rho.vercel.app/  
+Short: Basic e-commerce UI to practice product listing, cart behavior (client-side), and responsive design.
 
 ---
 
-## ✨ Connect with Me
+## 🏆 Hackathon & Competitions
 
-- 📧 Email: [shivanichaudhary664157@mail.com](mailto:shivanichaudhary664157@mail.com)  
-- 🔗 LinkedIn: [Shivani Chaudhary](https://www.linkedin.com/in/shivani-chaudhary-b78317296)  
-- 🐙 GitHub: [officialshivanichaudhary](https://github.com/officialshivanichaudhary)
+**Smart India Hackathon — Major Project (Team)**  
+_Project completed as part of a team and selected internally._  
+Repository is currently **private** (team member holds main repo).  
+If you want to view the code or demo, please contact me — I can provide:
 
 ---
 
-⭐ *If you like my work, consider following me or starring my projects!*
+## 📂 More Projects / Practice
+- Sidebar Menu — small practice project for DOM & toggle logic  
+- Other learning repos: basic JS & CSS practice (archived or private)
+
+---
+
+## 🧰 Tools & Tech
+HTML • CSS • JavaScript • PHP • MySQL • Bootstrap • FontAwesome • Git • Vercel • InfinityFree
+
+---
+
+## ✨ How to contact
+- 📧 Email: shivanichaudhary664157@mail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/shivani-chaudhary-b78317296  
+- 🐙 GitHub: https://github.com/officialshivanichaudhary
+
+---
+
+⭐ If you like my work — follow me or give a star!
