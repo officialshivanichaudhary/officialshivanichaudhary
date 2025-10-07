@@ -47,10 +47,6 @@ Short: Basic e-commerce UI to practice product listing, cart behavior (client-si
 > _Project completed as part of a team and selected internally._  
 Repository is currently **private** (team member holds main repo).  
 If you want to view the code or demo, please contact me — I can provide:
-- a demo video / screenshots, or
-- a public summary repo with report & screenshots, or
-- request collaborator permission to make repo public.
-
 ---
 
 ## 📂 More Projects / Practice
