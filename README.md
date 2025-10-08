@@ -29,7 +29,7 @@ I love building web apps, learning full‑stack development, and collaborating o
 
 ### 1. **GBU‑Quora** — College Discussion Forum (Major project)  
 🔗 Live: https://quoragbu.infinityfreeapp.com/GBU-QUORA/  
-Short: A PHP + MySQL Q&A platform (post, answer, upvote/downvote, search). Built with Nitish Sheoran.  
+Short: A PHP + MySQL Q&A platform (post, answer, upvote/downvote, search). Built in contribution.  
 **What I did:** Backend (PHP), DB schema, auth, UI/CRUD logic.
 
 ### 2. **Spotify Clone** (UI clone)  
