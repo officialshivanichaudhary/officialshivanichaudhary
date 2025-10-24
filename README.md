@@ -2,8 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-chaudhary-b78317296)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shivanichaudhary664157@mail.com)
-[![GitHub followers](https://img.shields.io/github/followers/officialshivanichaudhary?label=Follow&style=social)](https://github.com/officialshivanichaudhary)
-
 ---
 
 ## 👩‍💻 About Me
